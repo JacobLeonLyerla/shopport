@@ -4,52 +4,43 @@ const HomePage = () => (
     <div className="directory-menu">
       <div className="menu-item">
         <div className="content">
-          <h1 className="title">
-            HAT
-            <span className="subtitle">SHOP NOW</span>
-          </h1>
+          <h1 className="title">HAT</h1>
+          <span className="subtitle">SHOP NOW</span>
         </div>
       </div>
       <div className="menu-item">
         <div className="content">
           <h1 className="title">
-           JACKETS
+            JACKETS          </h1>
+
             <span className="subtitle">SHOP NOW</span>
-          </h1>
         </div>
       </div>
       <div className="menu-item">
         <div className="content">
           <h1 className="title">
-            SNEAKERS
+            SNEAKERS</h1>
             <span className="subtitle">SHOP NOW</span>
-          </h1>
+          
         </div>
       </div>
       <div className="menu-item">
         <div className="content">
           <h1 className="title">
-            WOMENS
+            WOMENS </h1>
             <span className="subtitle">SHOP NOW</span>
-          </h1>
+         
         </div>
       </div>
       <div className="menu-item">
         <div className="content">
           <h1 className="title">
-            MENS
+            MENS</h1>
             <span className="subtitle">SHOP NOW</span>
-          </h1>
-        </div>
-      </div>
-      <div className="menu-item">
-        <div className="content">
-          <h1 className="title">
-            HAT
-            <span className="subtitle">SHOP NOW</span>
-          </h1>
+          
         </div>
       </div>
     </div>
   </div>
 );
+export default HomePage;
